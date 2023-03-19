@@ -1,15 +1,17 @@
 # expo-pixi
 
+# NOTE: forked from [Bartozzz/expo-pixi](https://github.com/Bartozzz/expo-pixi) and published to npm
+
 [Pixi.js V4](https://pixijs.download/v4.8.9/docs/) for Expo.
 
 ## Installation
 
 ```bash
-$ npm install @Bartozzz/expo-pixi
+$ npm install @dezzmeister/expo-pixi
 ```
 
 ```bash
-$ yarn add @Bartozzz/expo-pixi
+$ yarn add @dezzmeister/expo-pixi
 ```
 
 Additionally, you'll need to install the following dependencies:

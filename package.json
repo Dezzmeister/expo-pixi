@@ -1,5 +1,5 @@
 {
-  "name": "expo-pixi",
+  "name": "@dezzmeister/expo-pixi",
   "version": "2.1.1",
   "description": "Pixi.js V4 Expo",
   "main": "build/index.js",
